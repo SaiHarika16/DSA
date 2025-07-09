@@ -4,8 +4,8 @@ class Solution(object):
         :type matrix: List[List[int]]
         :rtype: None Do not return anything, modify matrix in-place instead.
         """
-        matrix1=list(zip(*matrix))
-        res=[list(row[::-1]) for row in matrix1]
+        matrix_transposed=list(zip(*matrix))
+        res=[list(row[::-1]) for row in matrix_transposed]
         for i in range(len(matrix)):
             matrix[i] = res[i]
         
