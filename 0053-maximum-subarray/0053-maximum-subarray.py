@@ -4,11 +4,11 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        max_current = max_global = nums[0]
-        for num in nums[1:]:
-            max_current = max(num, max_current + num)
-            if max_current > max_global:
-                max_global = max_current
-            
-        return max_global
+        curr_sum=nums[0]
+        max_sum=nums[0]
+        for i in range(1,len(nums)):
+            curr_sum=max(nums[i],curr_sum+nums[i])
+            max_sum=max(curr_sum,max_sum)
+        return max_sum
+
         
