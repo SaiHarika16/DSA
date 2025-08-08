@@ -5,12 +5,11 @@ class Solution(object):
         :type t: str
         :rtype: str
         """
-        s_sum=0
-        t_sum=0
+        res=0
         for i in s:
-            s_sum+=ord(i)
+            res^=ord(i)
         for j in t:
-            t_sum+=ord(j)
-        return chr(t_sum-s_sum)
+            res^=ord(j)
+        return chr(res)
         
         
