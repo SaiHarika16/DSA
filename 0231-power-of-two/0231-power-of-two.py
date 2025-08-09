@@ -4,18 +4,14 @@ class Solution(object):
         :type n: int
         :rtype: bool
         """
+        if n<=0:
+            return False
+        while n>1:
+            if n%2!=0:
+                return False
+            else:
+                n=n//2
         if n==1:
             return True
-        low=1
-        high=n-1
-        while low<=high:
-            mid=(low+high)//2
-            pow_res=2**mid
-            if pow_res==n:
-                return True
-            elif(pow_res<n):
-                low=mid+1
-            else:
-                high=mid-1
-        return False
+            
         
