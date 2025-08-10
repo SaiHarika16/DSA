@@ -11,7 +11,6 @@ class Solution(object):
                 return False
             else:
                 n=n//2
-        if n==1:
-            return True
+        return True
             
         
