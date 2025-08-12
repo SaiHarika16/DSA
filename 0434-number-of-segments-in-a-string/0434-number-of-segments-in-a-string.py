@@ -6,6 +6,6 @@ class Solution(object):
         """
         if s=="":
             return 0
-        s=s.split(" ")
+        s=s.split()
         return len(s)
         
