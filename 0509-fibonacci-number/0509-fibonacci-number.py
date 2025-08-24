@@ -1,11 +1,6 @@
-class Solution(object):
-    def fib(self, n):
-        """
-        :type n: int
-        :rtype: int
-        """
-        a,b=0,1
-        for i in range(n):
-            a,b=b,a+b
-        return a
+class Solution:
+    def fib(self, n: int) -> int:
+        if n<=1:
+            return n
+        return self.fib(n-1)+self.fib(n-2)
         
