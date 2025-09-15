@@ -6,7 +6,7 @@ class Solution:
         n=len(nums)
         res=[0]*n
         for i in range(n):
-            k=k%n
+            #k=k%n
             new_index=(i+k)%n
             res[(i+k)%n]=nums[i]
         for i in range(n):
