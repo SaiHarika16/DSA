@@ -1,16 +1,11 @@
-class Solution(object):
-    def maxFrequencyElements(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
+class Solution:
+    def maxFrequencyElements(self, nums: List[int]) -> int:
         max_freq=0
         res=0
-        for i in range(len(nums)):
-            max_freq=max(max_freq,nums.count(nums[i]))
-        for i in set(nums):
-            if(nums.count(i)==max_freq):
+        for i in nums:
+            max_freq=max(nums.count(i),max_freq)
+        for num in set(nums):
+            if nums.count(num)==max_freq:
                 res+=max_freq
         return res
-        
         
