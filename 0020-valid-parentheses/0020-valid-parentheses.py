@@ -8,7 +8,7 @@ class Solution(object):
         stack=[]
         for i in s:
             if i in mappings:
-                top_element=stack.pop()
+                top_element=stack.pop() if stack else "#"
                 if top_element!=mappings[i]:
                     return False
             else:
