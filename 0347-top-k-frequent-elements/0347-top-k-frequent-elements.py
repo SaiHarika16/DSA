@@ -1,12 +1,9 @@
-class Solution:
-    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        c=Counter(nums)
-        res=[]
-        while k:
-            max_key=max(c,key=lambda num:c[num])
-            res.append(max_key)
-            c.pop(max_key)
-            k-=1
-        return res
-
-        
+class Solution(object):
+    def topKFrequent(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: List[int]
+        """
+        count = Counter(nums)
+        return [item[0] for item in count.most_common(k)]  
