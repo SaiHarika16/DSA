@@ -1,8 +1,16 @@
-class Solution:
-    def maxSubArray(self, nums: List[int]) -> int:
-        curr_sum=nums[0]
-        res_sum=nums[0]
-        for i in range(1,len(nums)):
-            curr_sum=max(nums[i],curr_sum+nums[i])
-            res_sum=max(res_sum,curr_sum)
-        return res_sum  
+class Solution(object):
+    def maxSubArray(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        sum=0
+        max_sum=float("-inf")
+        for i in range(0,len(nums)):
+            sum+=nums[i]
+            max_sum=max(sum,max_sum)
+            if sum<0:
+                sum=0
+        return max_sum
+
+        
