@@ -1,5 +1,6 @@
 class Solution:
     def numSub(self, s: str) -> int:
+        mod=10**9+7
         res=0
         count=0
         for i in s:
@@ -11,4 +12,4 @@ class Solution:
             else:
                 pass
         res+=(count*(count+1))//2
-        return res
+        return res%mod
