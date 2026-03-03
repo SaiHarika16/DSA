@@ -14,6 +14,7 @@ DSA practice
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/SaiHarika16/DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/SaiHarika16/DSA/tree/main/2405-optimal-partition-of-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -31,4 +32,12 @@ DSA practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SaiHarika16/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/SaiHarika16/DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/SaiHarika16/DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 <!---LeetCode Topics End-->
