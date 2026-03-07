@@ -24,6 +24,7 @@ DSA practice
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/SaiHarika16/DSA/tree/main/0075-sort-colors/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SaiHarika16/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SaiHarika16/DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SaiHarika16/DSA/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
@@ -49,4 +50,12 @@ DSA practice
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SaiHarika16/DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SaiHarika16/DSA/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/SaiHarika16/DSA/tree/main/0075-sort-colors/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/SaiHarika16/DSA/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
