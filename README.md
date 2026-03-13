@@ -27,12 +27,14 @@ DSA practice
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/SaiHarika16/DSA/tree/main/0075-sort-colors/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SaiHarika16/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SaiHarika16/DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SaiHarika16/DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SaiHarika16/DSA/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SaiHarika16/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SaiHarika16/DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,4 +62,8 @@ DSA practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/SaiHarika16/DSA/tree/main/0075-sort-colors/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SaiHarika16/DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 <!---LeetCode Topics End-->
