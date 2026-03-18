@@ -10,11 +10,13 @@ DSA practice
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/SaiHarika16/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/SaiHarika16/DSA/tree/main/2405-optimal-partition-of-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/SaiHarika16/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/SaiHarika16/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SaiHarika16/DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SaiHarika16/DSA/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2405-optimal-partition-of-string](https://github.com/SaiHarika16/DSA/tree/main/2405-optimal-partition-of-string/) | Medium |
@@ -67,6 +69,7 @@ DSA practice
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/SaiHarika16/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0414-third-maximum-number](https://github.com/SaiHarika16/DSA/tree/main/0414-third-maximum-number/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/SaiHarika16/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/SaiHarika16/DSA/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -76,4 +79,16 @@ DSA practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0704-binary-search](https://github.com/SaiHarika16/DSA/tree/main/0704-binary-search/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/SaiHarika16/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/SaiHarika16/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/SaiHarika16/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
