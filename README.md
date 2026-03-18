@@ -28,6 +28,7 @@ DSA practice
 | [0075-sort-colors](https://github.com/SaiHarika16/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0414-third-maximum-number](https://github.com/SaiHarika16/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/SaiHarika16/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0704-binary-search](https://github.com/SaiHarika16/DSA/tree/main/0704-binary-search/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SaiHarika16/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SaiHarika16/DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SaiHarika16/DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -71,4 +72,8 @@ DSA practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SaiHarika16/DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/SaiHarika16/DSA/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
