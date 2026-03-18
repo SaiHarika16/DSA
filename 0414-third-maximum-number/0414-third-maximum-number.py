@@ -10,10 +10,10 @@ class Solution:
                 third=second
                 second=first
                 first=i
-            elif first>i>second:
+            elif i>second:
                 third=second
                 second=i
-            elif second>i>third:
+            elif i>third:
                 third=i
         if third!=float("-inf"):
             return third
