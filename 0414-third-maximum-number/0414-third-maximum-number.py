@@ -3,7 +3,7 @@ class Solution:
         first=float("-inf")
         second=float("-inf")
         third=float("-inf")
-        for i in set(nums):
+        for i in nums:
             if i==first or i==second or i==third:
                 continue
             if i>first:
