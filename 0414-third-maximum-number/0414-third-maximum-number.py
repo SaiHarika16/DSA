@@ -15,4 +15,4 @@ class Solution:
                 third=i
         if third!=float("-inf"):
             return third
-        return max(nums)
+        return first
