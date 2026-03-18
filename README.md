@@ -32,6 +32,7 @@ DSA practice
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SaiHarika16/DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SaiHarika16/DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SaiHarika16/DSA/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
+| [2733-neither-minimum-nor-maximum](https://github.com/SaiHarika16/DSA/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@ DSA practice
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/SaiHarika16/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0414-third-maximum-number](https://github.com/SaiHarika16/DSA/tree/main/0414-third-maximum-number/) | Easy |
+| [2733-neither-minimum-nor-maximum](https://github.com/SaiHarika16/DSA/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
