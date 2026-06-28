@@ -12,6 +12,7 @@ DSA practice
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SaiHarika16/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/SaiHarika16/DSA/tree/main/2405-optimal-partition-of-string/) | Medium |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SaiHarika16/DSA/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +37,7 @@ DSA practice
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SaiHarika16/DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SaiHarika16/DSA/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/SaiHarika16/DSA/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SaiHarika16/DSA/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,4 +93,8 @@ DSA practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SaiHarika16/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SaiHarika16/DSA/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 <!---LeetCode Topics End-->
