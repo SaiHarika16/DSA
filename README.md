@@ -33,6 +33,7 @@ DSA practice
 | [0414-third-maximum-number](https://github.com/SaiHarika16/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/SaiHarika16/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/SaiHarika16/DSA/tree/main/0704-binary-search/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/SaiHarika16/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SaiHarika16/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SaiHarika16/DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SaiHarika16/DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -73,6 +74,7 @@ DSA practice
 | [0075-sort-colors](https://github.com/SaiHarika16/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0414-third-maximum-number](https://github.com/SaiHarika16/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/SaiHarika16/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/SaiHarika16/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/SaiHarika16/DSA/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
