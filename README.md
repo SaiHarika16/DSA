@@ -7,6 +7,7 @@ DSA practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/SaiHarika16/DSA/tree/main/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SaiHarika16/DSA/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
