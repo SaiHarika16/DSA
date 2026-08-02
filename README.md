@@ -6,6 +6,7 @@ DSA practice
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/SaiHarika16/DSA/tree/main/0877-stone-game/) | Medium |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/SaiHarika16/DSA/tree/main/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SaiHarika16/DSA/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Hash Table
@@ -33,6 +34,7 @@ DSA practice
 | [0414-third-maximum-number](https://github.com/SaiHarika16/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/SaiHarika16/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/SaiHarika16/DSA/tree/main/0704-binary-search/) | Easy |
+| [0877-stone-game](https://github.com/SaiHarika16/DSA/tree/main/0877-stone-game/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/SaiHarika16/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SaiHarika16/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SaiHarika16/DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -79,6 +81,7 @@ DSA practice
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/SaiHarika16/DSA/tree/main/0877-stone-game/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SaiHarika16/DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -100,4 +103,8 @@ DSA practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SaiHarika16/DSA/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/SaiHarika16/DSA/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
